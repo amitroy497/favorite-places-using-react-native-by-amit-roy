@@ -31,6 +31,12 @@
 					"microphonePermission": "The app needs access to your microphone.",
 					"recordAudioAndroid": true
 				}
+			],
+			[
+				"expo-location",
+				{
+					"locationAlwaysAndWhenInUsePermission": "The app needs access to use your location."
+				}
 			]
 		]
 	}
